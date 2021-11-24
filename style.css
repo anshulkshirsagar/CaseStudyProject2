@@ -1,0 +1,29 @@
+#div1{
+    background-color: grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#div2{
+    background-color: grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#div3{
+    background-color: grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#div4{
+    background-color: grey;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#div5{
+    background-color: grey;
+}
+#mobileNet_button{
+    background-color: skyblue;
+}
+#googleLens_button{
+    background-color: yellow;
+}
